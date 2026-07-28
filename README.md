@@ -28,7 +28,7 @@
   </a>
     <h3>Tools</h3>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,windows&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,windows&theme=dark" />
   </a>
   </div>
 <br>
