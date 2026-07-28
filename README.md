@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/f%C3%A9lix-and%C3%BAjar-6b185a291/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
-<a href = "mailto:ffdev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
+<a href = "mailto:ffelixdev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
   </p>
 <br>
 <h1 align=center>Sobre mi 😃</h1>
@@ -12,7 +12,7 @@
  🎓 DESARROLLADOR DE SOFTWARE
 💻 Desarrollador Backend
 
-📫 Contacto: **ffdev@gmail.com**  
+📫 Contacto: **ffelixdev@gmail.com**  
 </div>
 <br>
 <h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
