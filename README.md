@@ -2,8 +2,8 @@
 👋 Hola, soy [Fèlix]
 Desarrollador de software enfocado en crear soluciones eficientes y escalables.
 
- Tecnologías
-</>Lenguajes: JavaScript, Python, Java
+ </>Lenguajes: JavaScript, Python, Java
+ 
 </>Frontend: React, HTML, CSS
 
 
